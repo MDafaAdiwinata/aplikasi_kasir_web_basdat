@@ -30,7 +30,36 @@ Sistem ini mendukung 3 peran pengguna utama:
 
 ---
 
-## 2. Struktur Basis Data (Database Schema)
+## 2. Diagram Sistem
+
+### ERD Database
+<p align="center">
+  <img src="assets/erddatabase.png" alt="ERD Database" width="600"/>
+</p>
+
+### Use Case Diagram Admin
+<p align="center">
+  <img src="assets/usecaseadmin.png" alt="Use Case Diagram Admin" width="600"/>
+</p>
+
+### Use Case Diagram Kasir
+<p align="center">
+  <img src="assets/usecasekasir.png" alt="Use Case Diagram Kasir" width="600"/>
+</p>
+
+### Use Case Diagram Pelanggan
+<p align="center">
+  <img src="assets/usecasepelanggan.png" alt="Use Case Diagram Pelanggan" width="600"/>
+</p>
+
+### Data Flow Diagram (DFD) Sistem
+<p align="center">
+  <img src="assets/dfd.png" alt="Data Flow Diagram Sistem" width="650"/>
+</p>
+
+---
+
+## 3. Struktur Basis Data (Database Schema)
 
 Database menggunakan nama `db_mbah_buyut` dengan struktur tabel sebagai berikut:
 
@@ -47,7 +76,7 @@ Database menggunakan nama `db_mbah_buyut` dengan struktur tabel sebagai berikut:
 
 ---
 
-## 3. Eksekusi Script SQL
+## 4. Eksekusi Script SQL
 
 Jalankan perintah SQL berikut pada DBMS (MySQL/MariaDB) untuk membuat database, tabel, dan mengisi data sampel awal.
 
