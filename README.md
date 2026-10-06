@@ -34,22 +34,22 @@ Sistem ini mendukung 3 peran pengguna utama:
 
 ### ERD Database
 <p align="center">
-  <img src="assets/erddatabase.png" alt="ERD Database" width="600"/>
+  <img src="assets/erddatabase.png" alt="ERD Database"/>
 </p>
 
 ### Use Case Diagram Admin
 <p align="center">
-  <img src="assets/usecaseadmin.png" alt="Use Case Diagram Admin" width="600"/>
+  <img src="assets/usecaseadmin.png" alt="Use Case Diagram Admin"/>
 </p>
 
 ### Use Case Diagram Kasir
 <p align="center">
-  <img src="assets/usecasekasir.png" alt="Use Case Diagram Kasir" width="600"/>
+  <img src="assets/usecasekasir.png" alt="Use Case Diagram Kasir"/>
 </p>
 
 ### Use Case Diagram Pelanggan
 <p align="center">
-  <img src="assets/usecasepelanggan.png" alt="Use Case Diagram Pelanggan" width="600"/>
+  <img src="assets/usecasepelanggan.png" alt="Use Case Diagram Pelanggan"/>
 </p>
 
 ### Data Flow Diagram (DFD) Sistem
